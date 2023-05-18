@@ -1,0 +1,9 @@
+* spinneret
+
+Common Lisp HTML5 generator.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/ruricolist/spinneret.git |
+| commit  | 6a53009                                         |
+| systems | spinneret                                       |
+|---------+-------------------------------------------------|
