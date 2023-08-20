@@ -4,6 +4,6 @@ Common Lisp HTML5 generator.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/ruricolist/spinneret.git |
-| commit  | e901841                                         |
+| commit  | 620e0ad                                         |
 | systems | spinneret                                       |
 |---------+-------------------------------------------------|
